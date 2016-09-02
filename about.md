@@ -1,34 +1,32 @@
 ---
 layout: default
 permalink: /about/
-title: "What's this about?"
+title: "关于"
 ---
 
-GitHub wants to help developers choose an open source license for their source code.
+GitHub 想要帮助开发者为自己选择一个合适的开源协议。
 
-If you already know what you're doing and have a license you prefer to use, that's great! We're not here to change your mind. But if you are bewildered by the large number of open source license choices, maybe we can help.
+如果你已经知道自己在做什么，有自己喜欢的许可协议，那么说明你是一名伟大的开发者，我们并不想改变你的选择，但是如果你在为选择哪一种协议而烦恼，也许我们可以提供帮助。
 
-## Not comprehensive
+## 删繁就简
 
-This site is not a comprehensive directory of open source licenses. We think there are too many options, which adds to the confusion. On the [homepage](/), we break it down into just three licenses. The vast majority of projects will likely be fine choosing from one of these three. Just in case you have specific needs not covered by those three, we also highlight a [few other licenses to consider](/licenses/), and have a page about [licenses for non-software projects](/non-software/).
+本网站只收集了部分常用的协议。 我们觉得太多的选择对您来说反而是一种麻烦，在 [网站主页](/), 我们只为您推荐了三种最常用的协议。这三种协议适用于大部分的项目，如果你没有找到合适的选择，我们提供了 [更多的开源协议](/licenses/)，以及 [非软件类的知识共享协议](/non-software/).
 
-See our [appendix](/appendix) for a table of all of the licenses cataloged in the choosealicense.com repository and the links below for *even more licenses* that you **do not** need to learn about when choosing a license for your project.
+如果想更佳详细的了解可以参阅 [附录](/appendix) 中的表格来查看各种协议允许和禁止的内容。
 
-### Additional resources
+### 其他资源
 
 {: .bullets}
 
-* Open Source Initiative's [list of licenses](https://opensource.org/licenses/) approved as conforming to the [Open Source Definition](https://opensource.org/osd)
-* Free Software Foundation's [comments on various licenses](http://www.gnu.org/licenses/license-list.html)
-* Linux Foundation's [SPDX License List](https://spdx.org/licenses/)
-* [Comparison of free and open-source software licenses](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) on English Wikipedia
-* [License differentiator](http://www.oss-watch.ac.uk/apps/licdiff/) ([source](https://github.com/ox-it/licdiff)) from [OSS Watch](http://www.oss-watch.ac.uk/)
-* [Free/Libre/Open Source license selection wizard](http://home.ccil.org/~cowan/floss/) by John Cowan
+* 开源代码促进会的 [许可协议名单](https://opensource.org/licenses/) 以及其批准的 [符合开源协议定义](https://opensource.org/osd)
+* 自由软件基金会的 [各种许可协议](http://www.gnu.org/licenses/license-list.html)
+* Linux基金会的 [SPDX许可协议列表](https://spdx.org/licenses/)
+* 维基百科的 [自由及开放源代码软件许可证比较](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%8F%8A%E9%96%8B%E6%94%BE%E5%8E%9F%E5%A7%8B%E7%A2%BC%E8%BB%9F%E9%AB%94%E8%A8%B1%E5%8F%AF%E8%AD%89%E6%AF%94%E8%BC%83)
 
-## Help us improve it
+## 出谋献策
 
-Choosealicense.com isn't just about open source, the site itself is open source as well. See something you think could be done better? Feel free to [fork the project](https://github.com/github/choosealicense.com) on GitHub and submit a pull request. We'd welcome your improvements.
+Choosealicense.online 不仅为开源服务，本身也是开源的，如果你觉得可以帮助我们做的更好，请在GitHub上 [fork这个项目](https://github.com/ChooseLicense/ChooseLicense.github.io) 然后给我们提交pull请求，我们很欢迎您的改进。
 
-## Disclaimer
+## 敬谢不敏
 
-We are not lawyers. Well, most of us anyway. It is not the goal of this site to provide legal advice. The goal of this site is to provide a starting point to help you make an informed choice by providing information on popular open source licenses. If you have any questions regarding the right license for your code or any other legal issues relating to it, it's up to you to do further research or consult with a professional.
+我们不是律师，至少大部分不是，所有我们不提供法律咨询。我们的目标是帮助您从流行的开源协议中选择一款合适的的，如果您对您的代码或者其他有关法律的问题，请咨询专业人士。我们对此无能为力，无法给予您帮助。
