@@ -1,9 +1,11 @@
 ---
-title: Terms of Service
+title: 服务条款
 layout: default
 permalink: /terms-of-service/
 description: Terms governing your use of choosealicense.com
 ---
+
+不汉化了，反正你们也不会看 ˊ_>ˋ
 
 ### 1. Introduction
 
