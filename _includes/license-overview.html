@@ -21,7 +21,15 @@
         <tr>
         {% assign types = "permissions|conditions|limitations" | split: "|" %}
         {% for type in types %}
-          <th class="label">{{ type | capitalize }}</th>
+          {% if type == 'permissions' %}
+            <th class="label">允许</th>
+          {% elsif type == 'conditions' %}
+            <th class="label">要求</th>
+          {% elsif type == 'limitations' %}
+            <th class="label">禁止</th>
+          {% else %}
+            <th class="label">{{ type | capitalize }}</th>
+          {% endif %}
         {% endfor %}
         </tr>
         <tr>
@@ -34,7 +42,33 @@
                   {% if license[type] contains req %}
                     <li class="{{ req }}">
                       <span class="license-sprite"></span>
-                      {{ rule_obj.label }}
+                      {% if rule_obj.label == 'Commercial Use' %}
+                        商业用途
+                      {% elsif rule_obj.label == 'Distribution' %}
+                        分发
+                      {% elsif rule_obj.label == 'Modification' %}
+                        修改
+                      {% elsif rule_obj.label == 'Patent Use' %}
+                        专利授权
+                      {% elsif rule_obj.label == 'Private Use' %}
+                        私用
+                      {% elsif rule_obj.label == 'Disclose Source' %}
+                        公开源码
+                      {% elsif rule_obj.label == 'License and Copyright Notice' %}
+                        放置许可协议与版权信息
+                      {% elsif rule_obj.label == 'Network Use is Distribution' %}
+                        使用网络分发
+                      {% elsif rule_obj.label == 'Same License' %}
+                        使用相同协议
+                      {% elsif rule_obj.label == 'State Changes' %}
+                        声明变更
+                      {% elsif rule_obj.label == 'Hold Liable' %}
+                        承担责任
+                      {% elsif rule_obj.label == 'Trademark Use' %}
+                        使用商标
+                      {% else %}
+                        {{ rule_obj.label }}
+                      {% endif %}
                     </li>
                   {% endif %}
                 {% endfor %}
