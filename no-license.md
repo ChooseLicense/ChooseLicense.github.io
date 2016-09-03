@@ -2,19 +2,19 @@
 layout: default
 permalink: no-license/
 redirect_from: /licenses/no-license/
-title: No License
+title: 无开源协议
 description: "You're under no obligation to choose a license and it's your right not to include one with your code or project. But please note that opting out of open source licenses doesn't mean you're opting out of copyright law."
 ---
 
-Opting out of open source licenses doesn't mean you're opting out of copyright law.
+选择退出开源软件协议并不意味着你加入了版权保护法。
 
-You'll have to check with your own legal counsel regarding your particular project, but generally speaking, the absence of a license means that default copyright laws apply. This means that you retain all rights to your source code and that nobody else may reproduce, distribute, or create derivative works from your work.
+你需要和你的律师检查你的项目是否受受法律保护，不过一般来说，没有许可证默认使用版权保护法，这意味着你保留所有权力，不允许任何人复制，分发或创建衍生作品。
 
-You don't have to do anything to not offer a license, though including a copyright notice is recommended.
+如果你要退出开源软件协议你不需要做任何事情，但仍推荐你放置一个简单的版权声明。
 
 <div class="clearfix">
 <div class="license-body">
-<pre id="license-text">Copyright [year] [fullname]</pre>
+<pre id="license-text">Copyright [年份][名字]</pre>
 </div> <!-- /license-body -->
 </div>
 
