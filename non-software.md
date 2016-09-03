@@ -16,8 +16,8 @@ permalink: /non-software/
 
 ### 字体
 
-The [SIL Open Font License 1.1](/licenses/ofl-1.1/) keeps fonts open but allows them to be freely used in other works.
+[SIL 开源字体协议](/licenses/ofl-1.1/) 保持字体开源同时允许在任何地方免费使用。
 
 ### 综合项目
 
-If your project contains a mix of software and other material, you can include multiple licenses, as long as you are explicit about which license applies to what parts of the project.  See [the license notice for this site](https://github.com/github/choosealicense.com#license) as an example.
+如果你的项目中包含软件和其它内容，你可以放置多个协议，只要你明确标示各个部分使用的协议即可，你可以参照[本网站的协议](https://github.com/ChooseLicense/ChooseLicense.github.io/#license)。
