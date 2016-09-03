@@ -1,23 +1,23 @@
 ---
-title: Non-Software Licenses
+title: 非软件类协议
 layout: default
 permalink: /non-software/
 ---
 
-Open source software licenses can be used for non-software works, and often are the best choice. This is particularly the case when the works in question can be edited and versioned as source, e.g., [open source hardware](http://www.oshwa.org/definition/) designs. Choose an [open source license](/licenses/).
+开源软件协议同样适用于非软件类项目，并且通常来说是更好的选择。尤其是当项目可编辑且拥有源版本时，例如：[开源硬件设计](http://www.oshwa.org/definition/chinese/)， 选择一个 [开源软件协议](/licenses/).
 
-### Data, media, etc.
+### 数据、多媒体、 或者其它.
 
-[CC0-1.0](/licenses/cc0-1.0/), [CC-BY-4.0](/licenses/cc-by-4.0/), and [CC-BY-SA-4.0](/licenses/cc-by-sa-4.0/) are [open](http://opendefinition.org) licenses used for non-software material ranging from datasets to videos. Note that CC-BY-4.0 and CC-BY-SA-4.0 should [not be used for software](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software).
+数据、多媒体、网站、文章等内容可以使用知识共享协议(Creative Commons，也称为CC协议)，[CC0-1.0](/licenses/cc0-1.0/), [CC-BY-4.0](/licenses/cc-by-4.0/), 和 [CC-BY-SA-4.0](/licenses/cc-by-sa-4.0/) 均属于知识共享协议，请注意： CC-BY-4.0 和 CC-BY-SA-4.0 不可以用于软件。你可以到 [creativecommons.org](https://creativecommons.org/choose/) 选择一个合适的协议。
 
-### Documentation
+### 文档
 
-Any open source software license or open Creative Commons license is applicable to software documentation. If you use different licenses for your software and its documentation, you may wish to take care that source code examples in the documentation are also licensed under the software license.
+所有开源软件协议和知识共享协议都适用于软件文档。如果你的软件和文档使用了不同的协议，请注意文档中示例代码的协议属于开源软件协议。
 
-### Fonts
+### 字体
 
 The [SIL Open Font License 1.1](/licenses/ofl-1.1/) keeps fonts open but allows them to be freely used in other works.
 
-### Mixed Projects
+### 综合项目
 
 If your project contains a mix of software and other material, you can include multiple licenses, as long as you are explicit about which license applies to what parts of the project.  See [the license notice for this site](https://github.com/github/choosealicense.com#license) as an example.
