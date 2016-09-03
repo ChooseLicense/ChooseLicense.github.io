@@ -18,18 +18,18 @@ description: "You're under no obligation to choose a license and it's your right
 </div> <!-- /license-body -->
 </div>
 
-Disallowing use of your code might not be what you intend by "no license." An [open-source license](/) allows reuse of your code while retaining copyright. If your goal is to completely opt-out of copyright restrictions, try a [public domain dedication](/licenses/#unlicense).
+"无协议" 并不能保证不让别人使用你的代码，相反，[选择一个开源协议](/)可以在保护你版权的同时允许别人重复利用你的代码。如果你想要完全放弃版权的话，推荐使用  [The Unlicense](/licenses/#unlicense)。
 
-Even in the absence of a license file, you may grant some rights in cases where you publish your source code to a site that requires accepting terms of service. For example, if you publish your source code in a public repository on GitHub, you have accepted the [Terms of Service](https://help.github.com/articles/github-terms-of-service), by which you allow others to view and fork your repository; but this alone does not allow for the kinds of collaboration that people usually seek on a public code host, such as experimentation, modification, and sharing as fostered by an open source license.
+即便你没有放置许可协议，你所发布在某平台的源码会默认使用该平台协议，平台协议可能会默认授予或者限制某些权力。例如：如果你在GitHub平台发布源码，你必须接受 [GitHub服务条款](https://help.github.com/articles/github-terms-of-service/)，该条款默认允许他人查看和fork你的仓库。但不包括允许他人用你的代码做实验，修改和分享。 
 
-## For users
+## 对于用户
 
-If you find software that doesn't have a license, that generally means you have no permission from the creators of the software to use, modify, or share the software. Although a code host such as GitHub may allow you to download or fork the code, this does not imply that you are permitted to use, modify, or share the software for any purpose.
+如果你在GitHub上发现了一款软件没有放置开源协议，这可能意味着你没有使用、修改和分享软件的权力。虽然GitHub允许你查看、下载和fork这份代码，但并不意味着你拥有使用、修改和分享软件的权力，不论出于任何目的。
 
-Your options:
+如果你仍旧想要使用，你可以做如下选择：
 
-**Ask the maintainers nicely to add a license.** Unless the software includes strong indications to the contrary, lack of a license is probably an oversight. If the software is hosted on a site like GitHub, open an issue requesting a license and include a link to this site, or if you're bold and it's fairly obvious what license is most appropriate, open a pull request to add a license.
+**请求作者添加许可协议。** 除非有明确的表示，否则没有开源协议可能仅仅是因为做者的疏忽。如果这个项目托管在GitHub上，你可以提交一个Issues向作者请求添加一个协议，甚至可以添加协议后提交一个合并请求(pull request)。 
 
-**Don't use the software.** Find or create an alternative that is under an open source license.
+**不要使用这个软件。** 寻找一个有开源协议的替代方案。
 
-**Negotiate a private license.** Bring your lawyer.
+**协商一份私人协议** 建议请律师起草。
