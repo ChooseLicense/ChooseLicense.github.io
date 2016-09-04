@@ -9,7 +9,7 @@ hidden: false
 
 description: Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: 1.在您的软件仓库根目录下创建一个文本文件(命名为 LICENSE 或 LICENSE.txt)。 <br/>2.复制协议正文到这个文本文件中。
 
 note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license.
 

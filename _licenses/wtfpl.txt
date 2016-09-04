@@ -5,7 +5,7 @@ source: http://www.wtfpl.net/
 
 description: The easiest license out there. It gives the user permissions to do whatever they want with your code.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: 1.在您的软件仓库根目录下创建一个文本文件(命名为 LICENSE 或 LICENSE.txt)。 <br/>2.复制协议正文到这个文本文件中。
 
 permissions:
   - commercial-use
