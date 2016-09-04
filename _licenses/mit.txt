@@ -5,9 +5,9 @@ source: https://opensource.org/licenses/MIT
 featured: true
 hidden: false
 
-description: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+description: 这是一份简短而宽松的协议，只提供了版权保护和声明，它授予他人复制，修改，合并，发布，分发，授权和/或销售 本软件的副本的权力。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: 1.在您的软件仓库根目录下创建一个文本文件(命名为 LICENSE 或 LICENSE.txt)。 <br/>2.复制协议正文到这个文本文件中。<br/>3.将协议中 [year] 替换为当前年份，将 [fullname] 替换为你(们)的名字或者组织名字。
 
 using:
   - jQuery: https://github.com/jquery/jquery/blob/master/LICENSE.txt
