@@ -6,7 +6,7 @@ source: http://www.apache.org/licenses/LICENSE-2.0.html
 featured: true
 hidden: false
 
-description: A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+description: 一份提供了版权保护和许可声明的宽松的协议，本协议授权使用者专利使用权，使用时需注明作者，如有修改，需注明修改部分内容。请注意，本协议不授予商标使用权。
 
 how: 1.在您的软件仓库根目录下创建一个文本文件(命名为 LICENSE 或 LICENSE.txt)。 <br/>2.复制协议正文到这个文本文件中。
 
