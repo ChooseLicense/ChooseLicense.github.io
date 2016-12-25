@@ -5,7 +5,7 @@ source: http://opensource.org/licenses/afl-3.0
 
 description: The Academic Free License is a variant of the Open Software License that does not require that the source code of derivative works be disclosed. It contains explicit copyright and patent grants and reserves trademark rights in the author.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Files licensed under AFL 3.0 must also include the notice "Licensed under the Academic Free License version 3.0" adjacent to the copyright notice.
+how: 在你的源码根目录下创建一个文本文件，起名为 LICENSE 或 LICENSE.txt，之后将协议原文拷贝进该文件中。3.0 以下版本还要包括 "Licensed under the Academic Free License version 3.0" 的声明。
 
 permissions:
   - commercial-use
